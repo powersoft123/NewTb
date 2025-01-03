@@ -55,6 +55,34 @@
     "filterPlayFileKeywords": "",
     "keepPlayFileKeywords": "",
     "selectedPlayer": "0"
+},{
+  "key": "guanying",
+  "name": "🎏guanying┃网盘",
+  "type": 5,
+  "searchable": 1,
+  "filterClass": "",
+  "firstClass": "",
+  "filterPlay": "",
+  "firstPlay": "",
+  "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/powersoft123/NewTb/refs/heads/main/json/guanying.js",
+  "flagable": 0,
+  "filterPlayFileKeywords": "",
+  "keepPlayFileKeywords": "",
+  "selectedPlayer": "0"
+ },{
+  "key": "pansearch",
+  "name": "🎏pansearch┃网盘",
+  "type": 5,
+  "searchable": 1,
+  "filterClass": "",
+  "firstClass": "",
+  "filterPlay": "",
+  "firstPlay": "",
+  "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/powersoft123/NewTb/refs/heads/main/json/pansearch2.js",
+  "flagable": 0,
+  "filterPlayFileKeywords": "",
+  "keepPlayFileKeywords": "",
+  "selectedPlayer": "0"		
   },{
 		"key": "kuwosong",
 		"name": "🎵酷我┃音乐",
